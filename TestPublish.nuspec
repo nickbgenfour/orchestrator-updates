@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TestPublish</id>
+    <version>1.0.6269.21898</version>
+    <authors>Nick.Baumer</authors>
+    <owners>Nick.Baumer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Blank Project</description>
+    <dependencies>
+      <dependency id="Microsoft.Activities" version="1.0.1.0" />
+      <dependency id="Microsoft.Activities.Extensions" version="2.0.6.9" />
+      <dependency id="Twilio.Workflow.Activities" version="1.0.0.0" />
+      <dependency id="UiPath.Core.Activities" version="8.0.5785.29990" />
+      <dependency id="UiPath.Credentials.Activities" version="1.0.5638.31760" />
+      <dependency id="UiPath.Database.Activities" version="1.0.6066.25795" />
+      <dependency id="UiPath.Excel.Activities" version="1.2.6123.30845" />
+      <dependency id="UiPath.Framework.Activities" version="1.0.5905.30080" />
+      <dependency id="UiPath.FTP.Activities" version="1.0.5910.19769" />
+      <dependency id="UiPath.Mail.Activities" version="1.0.6074.25177" />
+      <dependency id="UiPath.OCR.Activities" version="1.0.5714.22559" />
+      <dependency id="UiPath.PDF.Activities" version="1.0.6194.22413" />
+      <dependency id="UiPath.Platform.Activities" version="2.1.5992.2567" />
+      <dependency id="UiPath.Script.Activities" version="1.0.6068.29800" />
+      <dependency id="UiPath.Terminal.Activities" version="1.0.6200.22271" />
+      <dependency id="UiPath.V7.Activities" version="7.0.5715.29283" />
+      <dependency id="UiPath.WebAPI.Activities" version="1.0.6171.33535" />
+      <dependency id="UiPath.Word.Activities" version="1.1.6108.25035" />
+    </dependencies>
+  </metadata>
+</package>
