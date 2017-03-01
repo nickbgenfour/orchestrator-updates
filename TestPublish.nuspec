@@ -27,5 +27,8 @@
       <dependency id="UiPath.WebAPI.Activities" version="1.0.6171.33535" />
       <dependency id="UiPath.Word.Activities" version="1.1.6108.25035" />
     </dependencies>
+	<files>
+		<file src="*" target="lib\net45\" />
+	</files>
   </metadata>
 </package>
